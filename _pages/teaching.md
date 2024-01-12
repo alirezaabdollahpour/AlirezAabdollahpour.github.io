@@ -1,12 +1,23 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Courses, workshops, and ...
 nav: true
-nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h3 class="mt-4">Tehran Polytechnic</h3>
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold" style="margin-bottom: -2rem">Advanced Machine learning</h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Fall 2022 and Fall 2023</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item" style="border: 0px">○ Graduate-level introduction to machine learning for masters and PhD students.</li>
+    </ul>
+  </div>
+</div>
