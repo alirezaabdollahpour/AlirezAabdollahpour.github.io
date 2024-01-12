@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am a Research Intern at École Polytechnique Fédérale de Lausanne (EPFL) in the Department of Electrical  Engineering under the supervision of Professor Pascal Frossard.
+I am a Research Intern under the supervision of <a href="https://people.epfl.ch/pascal.frossard">Pascal Frossard</a> at the <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne (EPFL)</a>, Switzerland.
 
-Before joining EPFL, I was a research intern at the Imperial College of London under the supervision of Professor Seyed-Mohsen Moosavi Dezfooli. I received my bachelor's in Computer and Communication Sciences under the supervision of Prof. Hamid Sheikhzadeh and Prof. Vahid Pourahmadi at the <a href="https://aut.ac.ir/en">Tehran Polytechnic</a>. My  research focused on the analysis of the robustness of classifiers and the theoretical guarantees of foundation models.
+Before joining <a href="https://www.epfl.ch/">École Polytechnique Fédérale de Lausanne (EPFL)</a>, I was a research intern at the <a href="https://imperial.ac.uk/">Imperial College London</a> under the supervision of Professor Seyed-Mohsen Moosavi Dezfooli. I received my bachelor's in Computer and Communication Sciences under the supervision of Prof. Hamid Sheikhzadeh and Prof. Vahid Pourahmadi at the <a href="https://aut.ac.ir/en">Tehran Polytechnic</a>. My  research focused on the analysis of the robustness of classifiers and the theoretical guarantees of foundation models.
 
